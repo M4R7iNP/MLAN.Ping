@@ -1,0 +1,3 @@
+[submodule "Arduino-Ping"]
+	path = Arduino-Ping
+	url = git@github.com:BlakeFoster/Arduino-Ping.git
